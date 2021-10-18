@@ -1,0 +1,18 @@
+{
+    "gang": {
+      "leader": "lynnteams",
+      "coleader": "lynnteams",
+      "adviser": "lynnteams",
+      "member_limit": 0,
+      "money_limit": 9e+36,
+      "g1": {
+        "id": "lynnteams",
+        "info": "lynnteams",
+        "owner": "lynnteams",
+        "limit": 0,
+        "economy_money": 0,
+        "economy_limit": 0,
+        "pngs": "lynnteams"
+      }
+    }
+  }

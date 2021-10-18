@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "node.js": "^0.0.1-security",
+    "unb-api": "^1.2.3"
+  },
+  "name": "system-gang",
+  "version": "1.0.0",
+  "main": "lynn.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKTheRipperTH/System-Gang.git"
+  },
+  "keywords": [],
+  "author": "Solast#6590 & ยูทูป YoMax#8388 & 𝐀𝐥𝐨𝐧𝐞#8475 & [SEVEN]#6218",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKTheRipperTH/System-Gang/issues"
+  },
+  "homepage": "https://github.com/JKTheRipperTH/System-Gang#readme",
+  "description": ""
+}

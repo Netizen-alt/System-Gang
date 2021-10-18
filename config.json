@@ -1,0 +1,9 @@
+{   
+    
+    "economy": "https://unbelievaboat.com/applications",
+    "prefix": "-",
+    "color": "f87c7c",
+    "invalidCmdReply": "ไม่สามารถใช้งานได้",
+    "methods": ["add", "remove"],
+    "intervalTime": 5000
+}
